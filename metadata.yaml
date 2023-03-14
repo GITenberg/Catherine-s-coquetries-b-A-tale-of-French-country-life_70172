@@ -5,12 +5,17 @@ contributor:
     agent_name: Mead, Leon
     gutenberg_agent_id: '55639'
     url: http://www.gutenberg.org/2009/agents/55639
+covers:
+- cover_type: archival
+  image_path: 70172-h/images/cover.jpg
 creator:
   author:
     agent_name: Debans, Camille
     gutenberg_agent_id: '55638'
     url: http://www.gutenberg.org/2009/agents/55638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70172#Catherine-s-coquetries-b-A-tale-of-French-country-life
 gutenberg_issued: '2023-02-28'
 identifiers:
   gutenberg: '70172'
